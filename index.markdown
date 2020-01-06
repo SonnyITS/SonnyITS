@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![MainBackground1](/assets/images/home/MainBackground1.jpg)
