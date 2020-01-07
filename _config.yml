@@ -18,16 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: SonnyITS
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello World! My name is Yuansun (Sonny) Jiang. I am currently studying for a Master’s of Science in 
+  Quantitative Economics; which is essentially Data Science with a focus on Economics. With the 
+  creation of this site, I hope to archive what I have learned not only for myself but also for others 
+  who come across this site.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://sonnyits.com/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: SonnyITS
+github_username:  SonnyITS
 
 # Build settings
 theme: minima
