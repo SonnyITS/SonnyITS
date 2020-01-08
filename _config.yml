@@ -21,10 +21,7 @@
 title: SonnyITS
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello World! My name is Yuansun (Sonny) Jiang. I am currently studying for a Master’s of Science in 
-  Quantitative Economics; which is essentially Data Science with a focus on Economics. With the 
-  creation of this site, I hope to archive what I have learned not only for myself but also for others 
-  who come across this site.
+  A simple archive of Economics, Computer Science, and etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sonnyits.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SonnyITS
