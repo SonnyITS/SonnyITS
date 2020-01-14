@@ -6,3 +6,7 @@ layout: home
 ---
 
 ![MainBackground1](/assets/images/home/MainBackground1.jpg)
+
+## README.TXT
+
+Hello World! My name is Yuansun (Sonny) Jiang. I am currently studying for a Master’s of Science in Quantitative Economics; which is essentially Data Science applied towards Economics. I have experience with programing and was originally taught in Java before transitioning over to Python for more powerful data analytic tools. Over the course of this program, I have used Calculus and Differential Equations to model different types of markets; and statistical methods to determine causation. I hope to create this website to archive what I have learned not only in my studies, but also some of my personal interests. 
