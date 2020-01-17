@@ -2,10 +2,14 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+#<p style="text-align: center;">{% include buttonTest.html %}</p>
+
 layout: home
 ---
 
 ![MainBackground1](/assets/images/home/MainBackground1.jpg)
+
+<div style="text-align: center;">{% include buttonResume.html %}</div>
 
 ## README.TXT
 

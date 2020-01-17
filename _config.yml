@@ -20,12 +20,15 @@
 
 title: SonnyITS
 email:
-description: >- # this means to ignore newlines until "baseurl:"
+description: >
   A simple archive of Economics, Computer Science, and etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sonnyits.com/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SonnyITS
-github_username:  SonnyITS
+twitter_username: "SonnyITS"
+github_username:  "SonnyITS"
+
+github_url: "https://github.com/SonnyITS"
+linkedin_url: "https://Linkedin.com/in/yuansun-jiang"
 
 # Build settings
 theme: minima

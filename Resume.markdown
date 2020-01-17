@@ -4,9 +4,9 @@ title: Resume
 permalink: /Resume/
 ---
 
-<p style="text-align: center;font-size:30px">Yuansun (Sonny) Jiang</p>
+<p style="text-align: center;font-size:40px">Yuansun (Sonny) Jiang</p>
 
-
+<p style="text-align: center;">{% include buttonResume.html %}</p>
 
 #### Education:
   
