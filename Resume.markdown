@@ -7,22 +7,24 @@ permalink: /Resume/
 <p style="text-align: center;font-size:40px">Yuansun (Sonny) Jiang</p>
 
 <p style="text-align: center;">{% include buttonResume.html %}</p>
+<br/>
 
-#### Education:
+#### - Education:
   
 **Masters of Science in Quantitative Economics**  
 **Bachelors of Science in Economics**  
 *University of Connecticut*
 <br/><br/>
 
-#### Technical Background:
+#### - Technical Background:
 
     Programing Languages: Python, Java
     
     Tools Used: R, STATA, MATLAB, Git
 
 <br/>
-#### Projects:
+
+#### - Projects:
 
 **UConn: American Institute of Aeronautics and Astronautics (AIAA)**  
 
@@ -34,7 +36,7 @@ permalink: /Resume/
 • Managed a small software development team in conjunction with other flight mechanics teams
 <br/><br/>
 
-#### Previous Employment:
+#### - Previous Employment:
 
 **Center for Students with Disabilities: University of Connecticut**  
 
