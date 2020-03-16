@@ -6,7 +6,7 @@ categories: Jekyll
 ---
 
 Local CT County Data provided by 
-<a href="https://portal.ct.gov/Coronavirus" target="_blank" title="CT.gov Coronavirus">CT.gov</a> 
+<a href="https://portal.ct.gov/Coronavirus" target="_blank" title="CT.gov/Coronavirus">CT.gov</a>  
 National and International data provided by 
 <a href="https://github.com/CSSEGISandData" target="_blank" title="CSSEGISandData">Johns Hopkins</a>  
 
