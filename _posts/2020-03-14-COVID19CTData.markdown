@@ -28,6 +28,10 @@ Data cleaned and presented by Yuansun (Sonny) Jiang and hosted on
 </div> 
 
 <div align="center">
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/COVID-19WorldDistribution/COVID-19USDistribution?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
+</div> 
+
+<div align="center">
     <iframe seamless frameborder="0" src="https://public.tableau.com/views/ConfirmedCasesbyUSState/ConfirmedCasesbyUSState?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
 </div> 
 
