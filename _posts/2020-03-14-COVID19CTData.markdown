@@ -13,7 +13,7 @@ Local CT County data provided by
 <a href="https://portal.ct.gov/Coronavirus" target="_blank" title="CT.gov/Coronavirus">CT.gov</a>  
 National and International data provided by 
 <a href="https://github.com/CSSEGISandData" target="_blank" title="CSSEGISandData">Johns Hopkins</a>  
-Data cleaned by Yuansun (Sonny) Jiang and hosted on 
+Data cleaned and presented by Yuansun (Sonny) Jiang and hosted on 
 <a href="https://github.com/SonnyITS/COVID-19" target="_blank" title="github">Github</a>  
 
 
