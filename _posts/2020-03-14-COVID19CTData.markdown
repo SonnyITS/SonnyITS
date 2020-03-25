@@ -9,6 +9,8 @@ categories: "Projects"
     <iframe seamless frameborder="0" src="https://public.tableau.com/views/ConfirmedCasesbyCTCounty/ConfirmedCasesbyCTCounty?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '160' scrolling='yes' ></iframe>    
 </div>
 
+#### Update: Johns Hopkins has changed their reporting data and is no longer including US state data in Time Series. We are currently working on a fix.
+
 Local CT County data provided by 
 <a href="https://portal.ct.gov/Coronavirus" target="_blank" title="CT.gov/Coronavirus">CT.gov</a>  
 National and International data provided by 
