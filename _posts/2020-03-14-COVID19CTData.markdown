@@ -26,7 +26,15 @@ Data cleaned and presented by Yuansun (Sonny) Jiang and hosted on
 </div> 
 
 <div align="center">
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionCTCOVID19CountyTimeSeries/CTCOVID-19LogConfirmedCases?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
+</div> 
+
+<div align="center">
     <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionCTCOVID19CountyTimeSeries/CTCOVID-19Deathsper100kResidents?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
+</div> 
+
+<div align="center">
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionCTCOVID19CountyTimeSeries/CTCOVID-19LogDeaths?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
 </div> 
 
 <div align="center">
@@ -35,6 +43,10 @@ Data cleaned and presented by Yuansun (Sonny) Jiang and hosted on
 
 <div align="center">
     <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStateCOVID19ConfirmedTimeSeries/USStateCOVID-19ConfirmedCasesper100kResidents?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
+</div> 
+
+<div align="center">
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStateCOVID-19Log/USStateCOVID-19LogConfirmedCases?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
 </div> 
 
 <br />
