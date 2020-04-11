@@ -11,7 +11,8 @@ Data cleaned by Yuansun (Sonny) Jiang and hosted on
 <a href="https://github.com/SonnyITS/COVID-19" target="_blank" title="github">Github</a>  
 
 #### More Countries and Graphs will be added  
-#### Update: Johns Hopkins has changed their reporting data and is no longer including US state data in Time Series. We are currently working on a fix.
+***Update: Further changes to this page are on hold. Please refer to the
+<a href="https://sonnyits.com/projects/2020/03/14/COVID19CTData.html" target="_blank" title="">COVID-19 CT Data Visualization Page</a>***   
 
 ## World
 <div align="center">

@@ -13,8 +13,12 @@ National and International data provided by
 <a href="https://github.com/CSSEGISandData" target="_blank" title="CSSEGISandData">Johns Hopkins</a>  
 Data cleaned and presented by Yuansun (Sonny) Jiang and hosted on 
 <a href="https://github.com/SonnyITS/COVID-19" target="_blank" title="github">Github</a>  
-***Note: The data presented reflect the previous day's final count***
+***Note: The data presented reflect the previous day's final count***  
+* [Connecticut COVID-19 Data](#CTData)  
+* [US National COVID-19 Data](#USData)  
+* [US Unemployment Data](#UnemployData)
 
+<a name="CTData"></a>
 <div align="center">
     <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSCountyCrossSection/CTConfirmedper100kResidents?:embed=yes&:display_count=yes&:showVizHome=no" width = '49%' height = '450' scrolling='yes' float = 'left'></iframe>    
     <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSCountyCrossSection/CTDeathsper100kResidents?:embed=yes&:display_count=yes&:showVizHome=no" width = '49%' height = '450' scrolling='yes' float = 'right'></iframe> 
@@ -39,7 +43,10 @@ Data cleaned and presented by Yuansun (Sonny) Jiang and hosted on
 </div>  
 
 <br />
-### United States National Data
+
+<a name="USData"></a>  
+
+### United States COVID-19 National Data
 
 <div align="center">
     <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSCountyCrossSection/USConfrimedCasesper100kResidents?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
@@ -55,11 +62,23 @@ Data cleaned and presented by Yuansun (Sonny) Jiang and hosted on
 
 <div align="center">
     <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUnemploymentUSStates/NewConfirmedCasesByWeek?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
-</div> 
+</div>  
+
+<a name="UnemployData"></a>  
+
+### United States Unemployment Data
 
 <div align="center">
     <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUnemploymentUSStates/InitialUnemploymentClaimsByWeek?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
 </div> 
+
+<div align="center">
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionInitialUnemploymentTimeSeries/InitialUnemploymentClaims-SurroundingNewEnglandArea?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
+</div> 
+
+<div align="center">
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionInitialUnemploymentTimeSeries/InitialUnemploymentClaims-NationalTotal?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
+</div>  
 
 <br />
 
