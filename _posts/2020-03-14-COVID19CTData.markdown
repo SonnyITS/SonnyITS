@@ -23,6 +23,7 @@ Data cleaned and presented by Yuansun (Sonny) Jiang and hosted on
     <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSCountyCrossSection/CTConfirmedper100kResidents?:embed=yes&:display_count=yes&:showVizHome=no" width = '49%' height = '450' scrolling='yes' float = 'left'></iframe>    
     <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSCountyCrossSection/CTDeathsper100kResidents?:embed=yes&:display_count=yes&:showVizHome=no" width = '49%' height = '450' scrolling='yes' float = 'right'></iframe> 
 </div>  
+Note: These figures have interactive controls. Hover the mouse over a map to reveal more information. 
 
 <br />
 
@@ -55,10 +56,15 @@ Data cleaned and presented by Yuansun (Sonny) Jiang and hosted on
 <div align="center">
     <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStateCOVID19ConfirmedTimeSeries/USStateCOVID-19ConfirmedCasesper100kResidents?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
 </div> 
-
+Note: These figures have interactive controls. Under “Measure Names” on the right side, click on one of the measures to highlight one state; or select several states by holding “Ctrl” (“Command” for Mac) and clicking on each state. In the pop-up box, you may select to “Keep Only” or “Exclude” the selected states. To reset, click the back arrow in the bottom right corner. 
 <div align="center">
     <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStateCOVID-19Log/USStateCOVID-19LogConfirmedCases?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
 </div> 
+
+<div align="center">
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSCountyCrossSection/NEUSConfirmper100kResidents?:embed=yes&:display_count=yes&:showVizHome=no" width = '49%' height = '450' scrolling='yes' float = 'left'></iframe>    
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSCountyCrossSection/NEUSDeathsper100kResidents?:embed=yes&:display_count=yes&:showVizHome=no" width = '49%' height = '450' scrolling='yes' float = 'right'></iframe> 
+</div>  
 
 <div align="center">
     <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUnemploymentUSStates/NewConfirmedCasesByWeek?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
