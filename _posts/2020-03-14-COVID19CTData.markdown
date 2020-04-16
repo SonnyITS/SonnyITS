@@ -13,7 +13,7 @@ National and International data provided by
 <a href="https://github.com/CSSEGISandData" target="_blank" title="CSSEGISandData">Johns Hopkins</a>  
 Data cleaned and presented by Yuansun (Sonny) Jiang and hosted on 
 <a href="https://github.com/SonnyITS/COVID-19" target="_blank" title="github">Github</a>  
-Support provided by Professor Oskar Harmon, Associate Professor of Economics, University of Connecticut  
+Supported by Professor Oskar Harmon, Associate Professor of Economics, University of Connecticut  
 ***Note: The data presented reflect the previous day's final count***  
 * [Connecticut COVID-19 Data](#CTData)  
 * [US National COVID-19 Data](#USData)  
