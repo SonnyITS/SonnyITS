@@ -146,13 +146,14 @@ Note: These figures have interactive controls. Hover the mouse over a map to rev
 <div align="center">
     <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStateCOVID19ConfirmedTimeSeries/USStateCOVID-19ConfirmedCasesper100kResidents?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
 </div> 
-Note: These figures have interactive controls. Under “Measure Names” on the right side, click on one of the measures to highlight one state; or select several states by holding “Ctrl” (“Command” for Mac) and clicking on each state. In the pop-up box, you may select to “Keep Only” or “Exclude” the selected states. To reset, click the back arrow in the bottom right corner. 
+Note: These figures have interactive controls. Under “Measure Names” on the right side, click on one of the measures to highlight one state; or select several states by holding “Ctrl” (“Command” for Mac) and clicking on each state. In the pop-up box, you may select to “Keep Only” or “Exclude” the selected states. To reset, click the back arrow in the bottom right corner.
+<br />
 <div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStateCOVID-19Log/USStateCOVID-19LogConfirmedCases?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStateTimeSeriesNewandTotal/USStatesTotalConfirmedCases?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
 </div> 
-
+<br />
 <div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUnemploymentUSStates/NewConfirmedCasesByWeek?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStateTimeSeriesNewandTotal/USStatesTotalDeaths?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' ></iframe>    
 </div>  
 
 <br />
@@ -190,7 +191,7 @@ Note: These figures have interactive controls. Under “Measure Names” on the 
 
 <a name="NEUnemploy"></a>  
 
-## *New*
+## *
 
 <br />
 <br />
