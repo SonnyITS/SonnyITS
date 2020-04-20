@@ -22,12 +22,9 @@ Supported by Oskar Harmon, Associate Professor of Economics, University of Conne
 * [New England Area COVID-19 Data](#NEData)  
     * [New England Area Confirmed Cases](#NEConfirm)  
     * [New England Area Deaths](#NEDeath)  
-* [United States COVID-19 Data](#USData)  
-    * [United States Confirmed Cases](#USConfirm)  
-    * [United States Deaths](#USDeath)  
-* [US Unemployment Data](#UnemployData)  
-    * [Surrounding New England Area](#NEUnemploy)  
-    * [United States](#USUnemploy)  
+* ~~United States COVID-19 Data~~  
+    * <a href="{{site.url}}/projects/2020/03/17/COVID19InternationalData.html" target="_blank" title="CSSEGISandData">US National COVID-19 Data has been moved here due to site optimization reasons</a>
+* [US Unemployment Data](#UnemployData)   
 
 <br />
 
@@ -102,7 +99,7 @@ Note: These figures have interactive controls. Hover the mouse over a map to rev
 </div> 
 <br />
 <div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStateTimeSeriesLogandPer100k/NewEnglandSurroundingAreaCOVID-19LogConfirmedCases?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStateTimeSeriesNewandTotal/NewEnglandSurroundingAreaTotalConfirmedCases?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
 </div> 
 
 <br />
@@ -117,51 +114,8 @@ Note: These figures have interactive controls. Hover the mouse over a map to rev
 </div> 
 <br />
 <div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStateTimeSeriesLogandPer100k/NewEnglandSurroundingAreaCOVID-19LogDeaths?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStateTimeSeriesNewandTotal/NewEnglandSurroundingAreaTotalDeaths?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
 </div> 
-
-<br />
-<br />
-
-<a name="USData"></a>  
-
-## United States COVID-19 Data
-
-<div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSCountyCrossSection/USConfirmedCasesper100kResidents?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
-</div> 
-<br />
-<div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStatesCrossSection/USConfirmedper100KResidents?:embed=yes&:display_count=yes&:showVizHome=no" width = '49%' height = '450' scrolling='yes' float = 'left' loading='lazy'></iframe>    
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStatesCrossSection/USDeathsper100KResidents?:embed=yes&:display_count=yes&:showVizHome=no" width = '49%' height = '450' scrolling='yes' float = 'right' loading='lazy'></iframe> 
-</div>  
-
-<br />
-<br />
-
-<a name="USConfirm"></a>
-
-## United States COVID-19 Confirmed Cases
-
-<div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStateCOVID19ConfirmedTimeSeries/USStateCOVID-19ConfirmedCasesper100kResidents?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
-</div> 
-Note: These figures have interactive controls. Under “Measure Names” on the right side, click on one of the measures to highlight one state; or select several states by holding “Ctrl” (“Command” for Mac) and clicking on each state. In the pop-up box, you may select to “Keep Only” or “Exclude” the selected states. To reset, click the back arrow in the bottom right corner.
-<br />
-<div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStateTimeSeriesNewandTotal/USStatesTotalConfirmedCases?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
-</div> 
-<br />
-<div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSStateTimeSeriesNewandTotal/USStatesTotalDeaths?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
-</div>  
-
-<br />
-<br />
-
-<a name="USDeath"></a>
-
-## United States COVID-19 Deaths
 
 <br />
 <br />
@@ -171,31 +125,22 @@ Note: These figures have interactive controls. Under “Measure Names” on the 
 ## United States Unemployment Data
 
 <div align="center">
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUnemploymentCrossSection/TotalUnemploymentClaimsasPercentageofLaborForceYTD?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
+</div>  
+<br />
+<div align="center">
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionStateUnemploymentNewandTotal/CTNewandTotalUnemploymentClaims?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
+</div> 
+<br />
+<div align="center">
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionStateUnemploymentPer100KandPercent/N_E_UnemploymentClaimsasPercentageofLaborForce?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
+</div> 
+<br />
+<div align="center">
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUnemploymentCrossSection/UnemploymentClaimsasPercentageofLaborForcebyState?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
+</div> 
+<div align="center">
     <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUnemploymentUSStates/InitialUnemploymentClaimsByWeek?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
 </div> 
-
-<div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUnemploymentCrossSection/PercentofYearToDateInitialUnemploymentClaimsOverLaborForce?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
-</div> 
-
-<div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionInitialUnemploymentTimeSeries/NewInitialUnemploymentClaims-SurroundingNewEnglandArea?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
-</div> 
-
-<div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionInitialUnemploymentTimeSeries/NewInitialUnemploymentClaims-NationalTotal?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
-</div>  
-
-<br />
 <br />
 
-<a name="NEUnemploy"></a>  
-
-## *
-
-<br />
-<br />
-
-<a name="USUnemploy"></a>  
-
-## *
