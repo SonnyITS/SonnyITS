@@ -6,7 +6,7 @@ categories: "Projects"
 ---
 
 <div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSCountyCrossSection/ConnecticutTotalConfrimedCases?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '220' scrolling='yes' loading='lazy'></iframe>    
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUSCountyCrossSection/ConnecticutTotalConfirmedCases?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '220' scrolling='yes' loading='lazy'></iframe>    
 </div>
 
 National and International data provided by 
@@ -24,7 +24,8 @@ Supported by Oskar Harmon, Associate Professor of Economics, University of Conne
     * [New England Area Deaths](#NEDeath)  
 * ~~United States COVID-19 Data~~  
     * <a href="{{site.url}}/projects/2020/03/17/COVID19InternationalData.html" target="_blank" title="CSSEGISandData">US National COVID-19 Data has been moved here due to site optimization reasons</a>
-* [US Unemployment Data](#UnemployData)   
+* ~~US Unemployment Data~~
+* [New England Area Unemployment Data](#UnemployData)   
 
 <br />
 
@@ -122,25 +123,22 @@ Note: These figures have interactive controls. Hover the mouse over a map to rev
 
 <a name="UnemployData"></a>  
 
-## United States Unemployment Data
+## North East US Unemployment Data
 
 <div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUnemploymentCrossSection/TotalUnemploymentClaimsasPercentageofLaborForceYTD?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUnemploymentCrossSection/N_EUnemploymentRateMap?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
 </div>  
 <br />
 <div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionStateUnemploymentNewandTotal/CTNewandTotalUnemploymentClaims?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUnemploymentInitialContinRateTimeSeries/NorthEastUSUnemploymentRatebyState?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
 </div> 
 <br />
 <div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionStateUnemploymentPer100KandPercent/N_E_UnemploymentClaimsasPercentageofLaborForce?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUnemploymentCrossSection/USUnemploymentRatebyState?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
 </div> 
 <br />
 <div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUnemploymentCrossSection/UnemploymentClaimsasPercentageofLaborForcebyState?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
-</div> 
-<div align="center">
-    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionUnemploymentUSStates/InitialUnemploymentClaimsByWeek?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/ProductionCTEmployment2020/Mar2020ChangeinCTEmployment?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '450' scrolling='yes' loading='lazy'></iframe>    
 </div> 
 <br />
 
